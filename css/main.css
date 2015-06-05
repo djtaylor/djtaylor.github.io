@@ -109,10 +109,14 @@ textarea {
 	position: absolute;
 	height: 40px;
 	margin: 5px;
+	overflow: auto;
 }
 
 .header_link {
-	
+	float: left;
+	height: 40px;
+	line-height: 40px;
+	margin: 0 10px 0 0;
 }
 
 /* ==========================================================================
