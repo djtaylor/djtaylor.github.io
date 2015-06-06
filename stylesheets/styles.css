@@ -258,12 +258,17 @@ footer {
 	width: 100%;
 	background-color: #f4f4f4;
 	height: 40px;
+	border-radius: 5px; 
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px; 
+	border: 1px solid #cccccc;
 }
 
 .site_user_txt {
 	padding: 5px;
 	height: 30px;
 	line-height: 30px;
+	font-size: 1.2em;
 }
 
 .site_tagline {
