@@ -258,11 +258,10 @@ footer {
 	width: 100%;
 	background-color: #f4f4f4;
 	height: 40px;
-	border-radius: 5px; 
-	-moz-border-radius: 5px; 
-	-webkit-border-radius: 5px; 
+	border-radius: 5px 5px 0px 0px; 
+	-moz-border-radius: 5px 5px 0px 0px; 
+	-webkit-border-radius: 5px 5px 0px 0px; 
 	border: 1px solid #e5e5e5;
-	margin: 0 0 10px 0;
 	overflow: auto;
 }
 
@@ -289,9 +288,9 @@ footer {
 	background-color: #333;
 	height: 20px;
 	line-height: 20px;
-	border-radius: 5px; 
-	-moz-border-radius: 5px; 
-	-webkit-border-radius: 5px;
+	border-radius: 0px 0px 5px 5px; 
+	-moz-border-radius: 0px 0px 5px 5px; 
+	-webkit-border-radius: 0px 0px 5px 5px; 
 	border: 1px solid #e5e5e5;
 	color: #fff;
 }
