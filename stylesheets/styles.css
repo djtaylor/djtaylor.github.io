@@ -286,10 +286,16 @@ footer {
 
 .site_tagline {
 	width: 100%;
-	background-color: #f4f4f4;
+	background-color: #333;
 	height: 20px;
+	line-height: 20px;
+	border-radius: 5px; 
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px;
+	border: 1px solid #e5e5e5;
+	color: #fff;
 }
 
 .site_tagline_txt {
-	
+	padding: 0 0 0 10px;
 }
