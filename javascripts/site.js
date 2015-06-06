@@ -1,6 +1,7 @@
-var test_e = null;
 $(document).ready(function() {
 	$('.site_nav_item').on('click', function() {
-		test_e = $(this);
+		var e = $(this);
+		var a = e[0].attributes.anchor.value;
+		window.location.hash = "#" + anchor;
 	});
 });
