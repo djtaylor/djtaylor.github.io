@@ -257,7 +257,7 @@ footer {
 .site_user {
 	width: 100%;
 	background-color: #f4f4f4;
-	height: 50px;
+	height: 74px;
 	border-radius: 5px; 
 	-moz-border-radius: 5px; 
 	-webkit-border-radius: 5px; 
@@ -267,18 +267,18 @@ footer {
 }
 
 .site_user_img {
-	background-image: url(/images/djtaylor_40x40.png);
+	background-image: url(/images/djtaylor_64x64.png);
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
-	width: 40px;
-	height: 40px;
+	width: 64px;
+	height: 64px;
 	padding: 5px;
 	float: left;
 }
 
 .site_user_txt {
 	padding: 5px 5px 5px 0;
-	height: 40px;
+	height: 64px;
 	float: left;
 	color: #333;
 	overflow: auto;
@@ -287,13 +287,13 @@ footer {
 .site_user_name {
 	font-size: 1.2em;
 	border-bottom: solid 1px #e5e5e5;
-	height: 20px;
-	line-height: 20px;
+	height: 32px;
+	line-height: 32px;
 }
 
 .site_user_tagline {
-	height: 20px;
-	line-height: 20px;
+	height: 32px;
+	line-height: 32px;
 }
 
 .site_github_profile {
