@@ -261,7 +261,19 @@ footer {
 	border-radius: 5px; 
 	-moz-border-radius: 5px; 
 	-webkit-border-radius: 5px; 
-	border: 1px solid #cccccc;
+	border: 1px solid #e5e5e5;
+	margin: 0 0 10px 0;
+	overflow: auto;
+}
+
+.site_user_img {
+	background-image: url(/images/djtaylor_30x30.png);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	width: 30px;
+	height: 30px;
+	padding: 5px;
+	float: left;
 }
 
 .site_user_txt {
@@ -269,6 +281,7 @@ footer {
 	height: 30px;
 	line-height: 30px;
 	font-size: 1.2em;
+	float: left;
 }
 
 .site_tagline {
