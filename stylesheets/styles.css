@@ -326,3 +326,29 @@ footer {
 	font-weight: bold;
 	cursor: pointer;
 }
+
+.site_project_logo {
+	width: 64px;
+	height: 64px;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 5px;
+	float: left;
+}
+.site_project_logo[project="gitsync"] {
+	background-image: url(/images/projects/gitsync_64x64.png);
+}
+
+.site_project_desc {
+	float: left;
+	overflow: auto;
+	color: #333;
+}
+
+.site_project_title {
+	font-size: 1.2em;
+}
+
+.site_project_txt {
+	
+}
