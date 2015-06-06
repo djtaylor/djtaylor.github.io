@@ -267,7 +267,7 @@ footer {
 }
 
 .site_user_img {
-	background-image: url(/images/djtaylor_30x30.png);
+	background-image: url(/images/djtaylor_40x40.png);
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
 	width: 40px;
@@ -277,7 +277,7 @@ footer {
 }
 
 .site_user_txt {
-	padding: 5px;
+	padding: 5px 5px 5px 0;
 	height: 40px;
 	float: left;
 	color: #333;
