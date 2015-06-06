@@ -286,9 +286,10 @@ footer {
 
 .site_user_name {
 	font-size: 1.2em;
+	font-weight: bold;
 	border-bottom: solid 1px #e5e5e5;
-	height: 32px;
-	line-height: 32px;
+	height: 31px;
+	line-height: 31px;
 }
 
 .site_user_tagline {
