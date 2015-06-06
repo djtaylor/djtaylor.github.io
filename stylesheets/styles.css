@@ -253,3 +253,25 @@ footer {
     color:#444;
   }
 }
+
+.site_user {
+	width: 100%;
+	background-color: #f4f4f4;
+	height: 40px;
+}
+
+.site_user_txt {
+	padding: 5px;
+	height: 30px;
+	line-height: 30px;
+}
+
+.site_tagline {
+	width: 100%;
+	background-color: #f4f4f4;
+	height: 20px;
+}
+
+.site_tagline_txt {
+	
+}
