@@ -288,10 +288,12 @@ footer {
 	font-size: 1.2em;
 	border-bottom: solid 1px #e5e5e5;
 	height: 20px;
+	line-height: 20px;
 }
 
 .site_user_tagline {
 	height: 20px;
+	line-height: 20px;
 }
 
 .site_github_profile {
