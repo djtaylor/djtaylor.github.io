@@ -319,8 +319,7 @@ footer {
 	line-height: 20px;
 	border-bottom: solid 1px #e5e5e5;
 	margin: 5px;
-	padding: 0 0 5px 5px;
-	font-size: 1.2em;
+	padding: 0 0 5px 0;
 }
 
 .site_nav_item:hover {
