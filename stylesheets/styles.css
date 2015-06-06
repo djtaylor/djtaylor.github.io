@@ -261,6 +261,7 @@ footer {
 	-webkit-border-radius: 5px; 
 	border: 1px solid #e5e5e5;
 	width: 100%;
+	overflow: auto;
 }
 
 .site_user {
@@ -332,7 +333,7 @@ footer {
 	height: 64px;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
-	margin: 5px;
+	margin: 10px 0 10px 10px;
 	float: left;
 }
 .site_project_logo[project="gitsync"] {
@@ -340,7 +341,7 @@ footer {
 }
 
 .site_project_desc {
-	float: left;
+	padding: 10px;
 	overflow: auto;
 	color: #333;
 }
