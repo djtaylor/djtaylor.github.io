@@ -339,6 +339,9 @@ footer {
 .site_project_logo[project="gitsync"] {
 	background-image: url(/images/projects/gitsync_64x64.png);
 }
+.site_project_logo[project="lense"] {
+	background-image: url(/images/projects/lense_64x64.png);
+}
 
 .site_project_desc {
 	padding: 10px;
