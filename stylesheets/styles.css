@@ -254,6 +254,10 @@ footer {
   }
 }
 
+.site_project {
+	margin: 0 0 10px 0;
+}
+
 .site_block_1 {
 	background-color: #f4f4f4;
 	border-radius: 5px; 
